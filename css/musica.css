@@ -1,0 +1,13 @@
+#musica .contenedor{
+	
+    display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	
+	
+}
+
+#musica article {
+	margin: 10px;
+	
+}

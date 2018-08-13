@@ -1,0 +1,19 @@
+
+.icon-gmail:before { content: '\e800'; } /* '' */
+.icon-headphones:before { content: '\e801'; } /* '' */
+.icon-play:before { content: '\e802'; } /* '' */
+.icon-pause:before { content: '\e803'; } /* '' */
+.icon-to-end:before { content: '\e804'; } /* '' */
+.icon-to-start:before { content: '\e805'; } /* '' */
+.icon-stop:before { content: '\e806'; } /* '' */
+.icon-volume-up:before { content: '\e807'; } /* '' */
+.icon-volume-off:before { content: '\e808'; } /* '' */
+.icon-volume-down:before { content: '\e809'; } /* '' */
+.icon-crown:before { content: '\e844'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-menu:before { content: '\f0c9'; } /* '' */
+.icon-instagram:before { content: '\f16d'; } /* '' */
+.icon-tree:before { content: '\f1bb'; } /* '' */
+.icon-wikipedia-w:before { content: '\f266'; } /* '' */
+.icon-gitlab:before { content: '\f296'; } /* '' */

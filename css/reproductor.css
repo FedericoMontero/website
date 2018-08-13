@@ -1,0 +1,27 @@
+#reproductor {
+	background: #333;
+	color: #fff;
+	text-align: justify;
+}
+
+#reproductor h4 {
+	text-align: center;
+	font-size: 20px;
+}
+
+#reproductor .contenedor {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.info {
+	margin: 28px;
+}
+
+.info img {
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	border: 7px solid #fff;
+}
